@@ -1,0 +1,48 @@
+{
+  "version": 1,
+<<<<<<< HEAD
+  "timestamp": 1549383028199,
+=======
+  "timestamp": 1549381605536,
+>>>>>>> anais
+  "graph": {
+    "options": {
+      "directed": true,
+      "multigraph": false,
+      "compound": false
+    },
+    "nodes": [
+      {
+        "v": "01-atoms/buttons/buttons.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-atoms/buttons/buttons~alternative.json",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "/Users/anais/Desktop/patternlab-master/source/_meta/_00-head.mustache",
+        "value": {
+          "compileState": null
+        }
+      },
+      {
+        "v": "/Users/anais/Desktop/patternlab-master/source/_meta/_01-foot.mustache",
+        "value": {
+          "compileState": null
+        }
+      }
+    ],
+    "edges": [
+      {
+        "v": "01-atoms/buttons/buttons~alternative.json",
+        "w": "01-atoms/buttons/buttons.mustache",
+        "value": {}
+      }
+    ]
+  }
+}

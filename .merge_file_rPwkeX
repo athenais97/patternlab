@@ -1,0 +1,1 @@
+< {{tag}} href="{{link}}" class="main-button {{button-class}}">{{text}}</ {{tag}}>

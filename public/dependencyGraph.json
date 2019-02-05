@@ -1,10 +1,6 @@
 {
   "version": 1,
-<<<<<<< HEAD
-  "timestamp": 1549384578083,
-=======
-  "timestamp": 1549384478188,
->>>>>>> ae3e58a7546ec52d6a22fe317f4d18028a20f0fd
+  "timestamp": 1549385316711,
   "graph": {
     "options": {
       "directed": true,
@@ -19,30 +15,18 @@
         }
       },
       {
-        "v": "01-atoms/buttons/buttons~alternative.json",
-        "value": {
-          "compileState": "clean"
-        }
-      },
-      {
-        "v": "/Users/anais/Desktop/patternlab-master/source/_meta/_00-head.mustache",
+        "v": "/Users/athe/Desktop/patternlab/source/_meta/_00-head.mustache",
         "value": {
           "compileState": null
         }
       },
       {
-        "v": "/Users/anais/Desktop/patternlab-master/source/_meta/_01-foot.mustache",
+        "v": "/Users/athe/Desktop/patternlab/source/_meta/_01-foot.mustache",
         "value": {
           "compileState": null
         }
       }
     ],
-    "edges": [
-      {
-        "v": "01-atoms/buttons/buttons~alternative.json",
-        "w": "01-atoms/buttons/buttons.mustache",
-        "value": {}
-      }
-    ]
+    "edges": []
   }
 }

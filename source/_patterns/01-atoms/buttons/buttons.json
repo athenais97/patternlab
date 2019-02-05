@@ -2,9 +2,5 @@
     "tag":"button",
     "link": "http://www.google.com",
     "button-class": "main-button",
-<<<<<<< HEAD
-    "text": "jean michel",
-=======
     "text": "test de conflit",
->>>>>>> 38ceeaa996f00c1376dd1ff2fe8f8db3cc9e7a63
 }

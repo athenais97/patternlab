@@ -1,10 +1,6 @@
 {
   "version": 1,
-<<<<<<< HEAD
-  "timestamp": 1549384578083,
-=======
-  "timestamp": 1549384478188,
->>>>>>> ae3e58a7546ec52d6a22fe317f4d18028a20f0fd
+  "timestamp": 1549385263070,
   "graph": {
     "options": {
       "directed": true,
@@ -14,12 +10,6 @@
     "nodes": [
       {
         "v": "01-atoms/buttons/buttons.mustache",
-        "value": {
-          "compileState": "clean"
-        }
-      },
-      {
-        "v": "01-atoms/buttons/buttons~alternative.json",
         "value": {
           "compileState": "clean"
         }
@@ -37,12 +27,6 @@
         }
       }
     ],
-    "edges": [
-      {
-        "v": "01-atoms/buttons/buttons~alternative.json",
-        "w": "01-atoms/buttons/buttons.mustache",
-        "value": {}
-      }
-    ]
+    "edges": []
   }
 }

@@ -4,10 +4,3 @@
     "button-class": "main-button",
     "text": "Reserver"
 }
-
-{
-    "tag":"button",
-    "link": "http://www.google.com",
-    "button-class": "secondary-button",
-    "text": "s'inscrire"
-}

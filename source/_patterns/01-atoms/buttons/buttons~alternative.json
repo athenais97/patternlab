@@ -2,6 +2,6 @@
 {
     "tag":"button",
     "link": "http://www.google.com",
-    "button-class": "secondary-button",
+    "button-class": "button",
     "text": "Hello!"
 }
